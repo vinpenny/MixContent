@@ -1,0 +1,12 @@
+{
+  "name": "mixcontent",
+  "version": "1.0.0",
+  "description": "A project for managing and remixing TikTok content",
+  "main": "seed_data.js",
+  "scripts": {
+    "seed": "node seed_data.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1"
+  }
+}
